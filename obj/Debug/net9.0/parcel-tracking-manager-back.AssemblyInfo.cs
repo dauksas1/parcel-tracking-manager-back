@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("parcel-tracking-manager-back")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25b960757d190b9076d953b48c841941f759bb52")]
 [assembly: System.Reflection.AssemblyProductAttribute("parcel-tracking-manager-back")]
 [assembly: System.Reflection.AssemblyTitleAttribute("parcel-tracking-manager-back")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
